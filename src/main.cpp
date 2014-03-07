@@ -850,7 +850,7 @@ int64 static GetBlockValue(int nHeight, int64 nFees, uint256 prevHash)
         int rand = generateMTRandom(seed, 28800);
         
         if (nHeight==1) {
-            return COIN * 230 000 000;
+            return COIN * 230000000;
         }
 
          else if(nHeight > 1 && nHeight < 2881) {
