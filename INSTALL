@@ -1,0 +1,9 @@
+Building HeisenbergHex
+
+See doc/readme-qt.rst for instructions on building HeisenbergHex-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HeisenbergHex.
+
+See doc/build-*.txt for instructions on building HeisenbergHexd,
+the intended-for-services, no-graphical-interface, reference
+implementation of HeisenbergHex.
