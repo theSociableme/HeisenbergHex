@@ -1,4 +1,4 @@
-HeisenbergHex (HXC)
+HeisenbergHex (HEX)
 
 30 second block timetables
 5 confirmations for transactions (2.5 mins)
